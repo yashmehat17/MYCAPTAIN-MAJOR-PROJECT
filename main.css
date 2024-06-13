@@ -1,0 +1,23 @@
+h1{
+    color: black;
+}
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: grey;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: black;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: underline solid black;
+}
+
+td{
+    padding: 10;
+}
